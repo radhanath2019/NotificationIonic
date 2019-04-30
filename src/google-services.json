@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062122854671",
+    "firebase_url": "https://ionicnotification-c0adf.firebaseio.com",
+    "project_id": "ionicnotification-c0adf",
+    "storage_bucket": "ionicnotification-c0adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062122854671:android:b5297516b81b498f",
+        "android_client_info": {
+          "package_name": "com.radha.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062122854671-ch5hcr7vggv1fjosabr3qkompri73r1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-N9zoEpKJfFdzRo1PniNbGhp9jM-OtgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062122854671-ch5hcr7vggv1fjosabr3qkompri73r1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<script src="https://www.gstatic.com/firebasejs/5.10.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAn_nTXkAoOWd_OoEZTI31xKH9njYP_uYw",
+    authDomain: "notificationionic-953a0.firebaseapp.com",
+    databaseURL: "https://notificationionic-953a0.firebaseio.com",
+    projectId: "notificationionic-953a0",
+    storageBucket: "notificationionic-953a0.appspot.com",
+    messagingSenderId: "1046909149467"
+  };
+  firebase.initializeApp(config);
+</script>
